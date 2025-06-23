@@ -18,6 +18,7 @@ This project performs **pairwise sequence alignment** using Biopython's `Pairwis
 ---
 
 ## 🗂️ Project Structure
+``` bash
 pairwise-sequence-alignment/
 ├── data/
 │ ├── example_query.fasta
@@ -26,6 +27,8 @@ pairwise-sequence-alignment/
 ├── pairwise_alignment.ipnyb
 ├── README.md
 ├── requirements.txt
+
+```
 
 ## ▶️ How to Use
 
