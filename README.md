@@ -41,9 +41,9 @@ pairwise-sequence-alignment/
 
 
 ## 👨‍💻 Author
--- Iftikhar Alam
--- LinkedIn: https://www.linkedin.com/in/iftikhar-alam-07b05b287
--- Email: alamiftikhar0006@gmail.com
+- Iftikhar Alam
+- LinkedIn: https://www.linkedin.com/in/iftikhar-alam-07b05b287
+- Email: alamiftikhar0006@gmail.com
 
 ## 📚 Reference:
 1. https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/download/lectures/PCB_Lect02_Pairwise_allign.pdf
